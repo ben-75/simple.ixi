@@ -1,0 +1,13 @@
+{
+  "name": "Simple",
+  "version": "0.0.1",
+  "main_class": "org.iota.ict.ixi.HelloIxiWorld",
+
+  "description": "Learning purpose...",
+
+  "repository": "ben-75/simple.ixi",
+
+  "gui_port": -1,
+
+  "supported_versions": ["0.6-SNAPSHOT"]
+}
